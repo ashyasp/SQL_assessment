@@ -85,7 +85,7 @@ id number?
 <h2>Question 10:Make the movie list more child-friendly. Delete all entries that have a rating of R. Remember to record your queries in a README.md file </h2>
 
 <h2>Question 11:Delete the Movies Table </h2>
-
-<h2>Question 12:Delete the Database </h2>
 DROP TABLE MOVIES;
+<h2>Question 12:Delete the Database </h2>
+DROP DATABASE MOVIES_DB;
 
